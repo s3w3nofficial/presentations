@@ -31,7 +31,6 @@ p {
 
 # Dell PowerEdge 2850
 
-Prezentují
 Tomáš Pelák, Patrik Kulhavý, Michal Pařízek
 
 ---
@@ -263,9 +262,9 @@ img {
 
 - RAM Technology DDR2 SDRAM
 - Memory Storage Capacit 4 GB
-- Memory Speed 667 MHz
+- Memory Speed 400 MHz
 - 240PIN DDR2 DIMM
-- ECC REGISTERED
+- ECC Not Supported
 - PC2-5300 
 
 ![bg left](server_internal_2.jpg)
@@ -333,16 +332,15 @@ xPCI Express Riser
 
 ---
 
-# Riser card ram
+![bg](riser_card.jpg)
 
-<style scoped>
-img {
-    height: 600px;
-    width: 100%;
-}
-</style>
+---
 
-![](extension_card_ram.jpg)
+# Dell PowerEdge 2850 PCI-X Riser Board V3 U8373
+
+- 3x PCI-X slots (64-bit/133MHz)
+- PERC 4e/Di ROMB
+- Dual Channel LSI53C1030 SCSI controller onboard with 240-pin expandable cache memory slot (DIMM not included)
 
 ---
 
