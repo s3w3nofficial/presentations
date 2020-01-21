@@ -11,6 +11,10 @@ style: |
     p {
         font-size: 36px
     }
+
+    li {
+        font-size: 36px
+    }
 </style>
 
 <style scoped>
@@ -31,7 +35,9 @@ style: |
 ---
 # Resistor
 
-A resistor is a passive electrical component that implements electrical resistance element. In electronic circuits, resistors are used to reduce current flow
+- passive electrical component 
+- implements electrical resistance
+- used to reduce current flow
 
 ![bg 100% right](resistor.jpg)
 
@@ -43,7 +49,7 @@ A resistor is a passive electrical component that implements electrical resistan
 
 # Capacitor
 
-A capacitor is a device that stores electrical energy in an electric field
+- stores electrical energy in an electric field
 
 ![bg 90% right](capacitor.jpg)
 
@@ -55,7 +61,9 @@ A capacitor is a device that stores electrical energy in an electric field
 
 # Diode
 
-A diode is a two-terminal electronic component that conducts current primarily in one direction (asymmetric conductance); it has low (ideally zero) resistance in one direction, and high (ideally infinite) resistance in the other.
+- two-terminal electronic component 
+- conducts current in one direction  
+- it has low (ideally zero) resistance in one direction, and high (ideally infinite) resistance in the other.
 
 ![bg 80% right](diode.jpg)
 
@@ -67,16 +75,18 @@ A diode is a two-terminal electronic component that conducts current primarily i
 
 # LED
 
-LED stands for light emitting diode. It is basically a special type of diode that lights up when electricity passes through it. Like all diodes, the LED is polarized and electricity is only intended to pass through in one direction.
+- LED stands for light emitting diode
+- lights up when electricity passes through it
 
 ![bg 120% left](LED.jpg)
 
 ---
 
-
 # Switche
 
-A switch is basically a mechanical device that creates a break in a circuit. When you activate the switch, it opens or closes the circuit. This is dependent on the type of switch it is.
+- mechanical device that creates a break in a circuit. 
+- When you activate the switch, it opens or closes the circuit.
+- NC / NO
 
 ![bg 100% right](switch.jpg)
 
@@ -110,11 +120,20 @@ Potentiometers are variable resistors. In plain English, they have some sort of 
 
 # Battery
 
-A battery is a container which converts chemical energy into electricity. To over-simplify the matter, you can say that it "stores power"
+- container which converts chemical energy into electricity.
+- stores power
 
 ---
 
 ![bg 80%](battery.jpg)
+
+---
+
+# Fuse
+
+- protects circuit
+
+![bg right 80%](fuse.jpg)
 
 ---
 
