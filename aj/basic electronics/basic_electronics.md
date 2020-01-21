@@ -82,7 +82,7 @@ style: |
 
 ---
 
-# Switche
+# Switch
 
 - mechanical device that creates a break in a circuit. 
 - When you activate the switch, it opens or closes the circuit.
